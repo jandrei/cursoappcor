@@ -1,0 +1,467 @@
+<resources>
+    <string name="app_name">Aula10</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="texto_segunda_via">Para utilizar os serviços de autoatendimento, tenha
+    em mãos o código do imóvel impresso em sua conta de água.</string>
+    <string name="insere_codigo">Insira o Código do Imóvel</string>
+    <string name="codigo">Código do Imóvel</string>
+    <string name="btn_consultar">Consultar</string>
+    <string name="txt_abastecimento">Situação do abastecimento de água</string>
+    <string name="digite_cidade">Digite a cidade...</string>
+    <string name="codigo_imovel">Código do Imóvel</string>
+    <string name="endereco">Endereço</string>
+    <string name="faturas_aberto">Faturas em Aberto</string>
+    <string name="selecione_fatura">Selecione uma fatura para emissão da segunda via da conta</string>
+    <string name="data">05/2017</string>
+    <string name="vencimento">Vencimento: 11/05/2017</string>
+    <string name="valor">Valor: R$ 38,68</string>
+    <string name="gerar_codigo"><a href="https://www.google.com/">Gerar código de barras</a></string>
+    <string name="info_vazamento">Informações do Vazamento</string>
+    <string name="tipo_vazamento">Tipo de Vazamento</string>
+    <string name="local_vazamento">Local de Vazamento</string>
+    <string name="contato">Contato</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="enviar">Enviar</string>
+
+
+    <string-array name="tipo_vazamento">
+        <item>	Água	</item>
+        <item>	Esgoto	</item>
+    </string-array>
+
+    <string-array name="local_vazamento">
+        <item>	Rua	</item>
+        <item>	Imóvel	</item>
+    </string-array>
+
+    <string-array name="cidades">
+        <item>	AGUA SANTA	</item>
+        <item>	AGUDO	</item>
+        <item>	AJURICABA	</item>
+        <item>	ALECRIM	</item>
+        <item>	ALEGRETE	</item>
+        <item>	ALEGRIA	</item>
+        <item>	ALPESTRE	</item>
+        <item>	ALTO ALEGRE	</item>
+        <item>	ALTO FELIZ	</item>
+        <item>	ALVORADA	</item>
+        <item>	AMARAL FERRADOR	</item>
+        <item>	AMETISTA DO SUL	</item>
+        <item>	ANDRE DA ROCHA	</item>
+        <item>	ANTA GORDA	</item>
+        <item>	ANTONIO PRADO	</item>
+        <item>	ARAMBARE	</item>
+        <item>	ARATIBA	</item>
+        <item>	ARROIO DO MEIO	</item>
+        <item>	ARROIO DO SAL	</item>
+        <item>	ARROIO DO TIGRE	</item>
+        <item>	ARROIO DOS RATOS	</item>
+        <item>	ARROIO GRANDE	</item>
+        <item>	ARVOREZINHA	</item>
+        <item>	AUGUSTO PESTANA	</item>
+        <item>	AUREA	</item>
+        <item>	BAGE	</item>
+        <item>	BARAO	</item>
+        <item>	BARAO DE COTEGIPE	</item>
+        <item>	BARAO DO TRIUNFO	</item>
+        <item>	BARRA DO GUARITA	</item>
+        <item>	BARRA DO RIBEIRO	</item>
+        <item>	BARRA DO RIO AZUL	</item>
+        <item>	BARRA FUNDA	</item>
+        <item>	BARRACAO	</item>
+        <item>	BARROS CASSAL	</item>
+        <item>	BENTO GONCALVES	</item>
+        <item>	BOA VISTA DAS MISSOES	</item>
+        <item>	BOA VISTA DO BURICA	</item>
+        <item>	BOM JESUS	</item>
+        <item>	BOM PRINCIPIO	</item>
+        <item>	BOM PROGRESSO	</item>
+        <item>	BOM RETIRO DO SUL	</item>
+        <item>	BOQUEIRAO DO LEAO	</item>
+        <item>	BOSSOROCA	</item>
+        <item>	BRAGA	</item>
+        <item>	BROCHIER	</item>
+        <item>	BUTIA	</item>
+        <item>	CACAPAVA DO SUL	</item>
+        <item>	CACEQUI	</item>
+        <item>	CACHOEIRA DO SUL	</item>
+        <item>	CACHOEIRINHA	</item>
+        <item>	CACIQUE DOBLE	</item>
+        <item>	CAIBATE	</item>
+        <item>	CAICARA	</item>
+        <item>	CAMAQUA	</item>
+        <item>	CAMARGO	</item>
+        <item>	CAMBARA DO SUL	</item>
+        <item>	CAMPESTRE DA SERRA	</item>
+        <item>	CAMPINA DAS MISSOES	</item>
+        <item>	CAMPINAS DO SUL	</item>
+        <item>	CAMPO BOM	</item>
+        <item>	CAMPO NOVO	</item>
+        <item>	CAMPOS BORGES	</item>
+        <item>	CANDELARIA	</item>
+        <item>	CANDIDO GODOI	</item>
+        <item>	CANDIOTA	</item>
+        <item>	CANELA	</item>
+        <item>	CANGUCU	</item>
+        <item>	CANOAS	</item>
+        <item>	CAPAO DA CANOA	</item>
+        <item>	CAPAO DO LEAO	</item>
+        <item>	CAPELA DE SANTANA	</item>
+        <item>	CAPITAO	</item>
+        <item>	CARAZINHO	</item>
+        <item>	CARLOS BARBOSA	</item>
+        <item>	CARLOS GOMES	</item>
+        <item>	CASCA	</item>
+        <item>	CASEIROS	</item>
+        <item>	CATUIPE	</item>
+        <item>	CAXIAS DO SUL	</item>
+        <item>	CENTENARIO	</item>
+        <item>	CERRO BRANCO	</item>
+        <item>	CERRO GRANDE	</item>
+        <item>	CERRO GRANDE DO SUL	</item>
+        <item>	CERRO LARGO	</item>
+        <item>	CHAPADA	</item>
+        <item>	CHARQUEADAS	</item>
+        <item>	CHARRUA	</item>
+        <item>	CHIAPETA	</item>
+        <item>	CIDREIRA	</item>
+        <item>	CIRIACO	</item>
+        <item>	COLINAS	</item>
+        <item>	COLORADO	</item>
+        <item>	CONDOR	</item>
+        <item>	CONSTANTINA	</item>
+        <item>	COQUEIROS DO SUL	</item>
+        <item>	CORONEL BARROS	</item>
+        <item>	CORONEL BICACO	</item>
+        <item>	COTIPORA	</item>
+        <item>	COXILHA	</item>
+        <item>	CRISSIUMAL	</item>
+        <item>	CRISTAL	</item>
+        <item>	CRUZ ALTA	</item>
+        <item>	CRUZEIRO DO SUL	</item>
+        <item>	DAVID CANABARRO	</item>
+        <item>	DERRUBADAS	</item>
+        <item>	DEZESSEIS DE NOVEMBRO	</item>
+        <item>	DOIS IRMAOS	</item>
+        <item>	DOIS IRMAOS DAS MISSOES	</item>
+        <item>	DOIS LAJEADOS	</item>
+        <item>	DOM FELICIANO	</item>
+        <item>	DOM PEDRITO	</item>
+        <item>	DONA FRANCISCA	</item>
+        <item>	DOUTOR MAURICIO CARDOSO	</item>
+        <item>	ELDORADO DO SUL	</item>
+        <item>	ENCANTADO	</item>
+        <item>	ENCRUZILHADA DO SUL	</item>
+        <item>	ENGENHO VELHO	</item>
+        <item>	ENTRE IJUIS	</item>
+        <item>	ENTRE RIOS DO SUL	</item>
+        <item>	EREBANGO	</item>
+        <item>	ERECHIM	</item>
+        <item>	ERNESTINA	</item>
+        <item>	ERVAL GRANDE	</item>
+        <item>	ERVAL SECO	</item>
+        <item>	ESMERALDA	</item>
+        <item>	ESPUMOSO	</item>
+        <item>	ESTACAO	</item>
+        <item>	ESTANCIA VELHA	</item>
+        <item>	ESTEIO	</item>
+        <item>	ESTRELA	</item>
+        <item>	EUGENIO DE CASTRO	</item>
+        <item>	FAGUNDES VARELA	</item>
+        <item>	FARROUPILHA	</item>
+        <item>	FAXINAL DO SOTURNO	</item>
+        <item>	FAXINALZINHO	</item>
+        <item>	FELIZ	</item>
+        <item>	FLORES DA CUNHA	</item>
+        <item>	FONTOURA XAVIER	</item>
+        <item>	FORMIGUEIRO	</item>
+        <item>	FORTALEZA DOS VALOS	</item>
+        <item>	FREDERICO WESTPHALEN	</item>
+        <item>	GARIBALDI	</item>
+        <item>	GARRUCHOS	</item>
+        <item>	GAURAMA	</item>
+        <item>	GENERAL CAMARA	</item>
+        <item>	GENTIL	</item>
+        <item>	GETULIO VARGAS	</item>
+        <item>	GIRUA	</item>
+        <item>	GLORINHA	</item>
+        <item>	GRAMADO	</item>
+        <item>	GRAMADO DOS LOUREIROS	</item>
+        <item>	GRAMADO XAVIER	</item>
+        <item>	GRAVATAI	</item>
+        <item>	GUABIJU	</item>
+        <item>	GUAIBA	</item>
+        <item>	GUAPORE	</item>
+        <item>	GUARANI DAS MISSOES	</item>
+        <item>	HARMONIA	</item>
+        <item>	HERVAL	</item>
+        <item>	HORIZONTINA	</item>
+        <item>	HULHA NEGRA	</item>
+        <item>	HUMAITA	</item>
+        <item>	IBARAMA	</item>
+        <item>	IBIACA	</item>
+        <item>	IBIRAIARAS	</item>
+        <item>	IBIRAPUITA	</item>
+        <item>	IBIRUBA	</item>
+        <item>	IGREJINHA	</item>
+        <item>	IJUI	</item>
+        <item>	ILOPOLIS	</item>
+        <item>	IMBE	</item>
+        <item>	IMIGRANTE	</item>
+        <item>	INDEPENDENCIA	</item>
+        <item>	INHACORA	</item>
+        <item>	IPE	</item>
+        <item>	IPIRANGA DO SUL	</item>
+        <item>	IRAI	</item>
+        <item>	ITACURUBI	</item>
+        <item>	ITAPUCA	</item>
+        <item>	ITAQUI	</item>
+        <item>	ITATIBA DO SUL	</item>
+        <item>	IVORA	</item>
+        <item>	IVOTI	</item>
+        <item>	JABOTICABA	</item>
+        <item>	JACUTINGA	</item>
+        <item>	JAGUARAO	</item>
+        <item>	JAGUARI	</item>
+        <item>	JAQUIRANA	</item>
+        <item>	JOIA	</item>
+        <item>	JULIO DE CASTILHOS	</item>
+        <item>	LAGOA DOS TRES CANTOS	</item>
+        <item>	LAGOA VERMELHA	</item>
+        <item>	LAGOAO	</item>
+        <item>	LAJEADO	</item>
+        <item>	LAJEADO DO BUGRE	</item>
+        <item>	LAVRAS DO SUL	</item>
+        <item>	LIBERATO SALZANO	</item>
+        <item>	LINDOLFO COLLOR	</item>
+        <item>	LINHA NOVA	</item>
+        <item>	MACHADINHO	</item>
+        <item>	MANOEL VIANA	</item>
+        <item>	MAQUINE	</item>
+        <item>	MARATA	</item>
+        <item>	MARAU	</item>
+        <item>	MARCELINO RAMOS	</item>
+        <item>	MARIANA PIMENTEL	</item>
+        <item>	MARIANO MORO	</item>
+        <item>	MATA	</item>
+        <item>	MATO CASTELHANO	</item>
+        <item>	MATO LEITAO	</item>
+        <item>	MAXIMILIANO DE ALMEIDA	</item>
+        <item>	MINAS DO LEAO	</item>
+        <item>	MIRAGUAI	</item>
+        <item>	MONTAURI	</item>
+        <item>	MONTE BELO DO SUL	</item>
+        <item>	MONTENEGRO	</item>
+        <item>	MORMACO	</item>
+        <item>	MORRINHOS DO SUL	</item>
+        <item>	MORRO REDONDO	</item>
+        <item>	MORRO REUTER	</item>
+        <item>	MOSTARDAS	</item>
+        <item>	MUCUM	</item>
+        <item>	MULITERNO	</item>
+        <item>	NAO ME TOQUE	</item>
+        <item>	NICOLAU VERGUEIRO	</item>
+        <item>	NONOAI	</item>
+        <item>	NOVA ALVORADA	</item>
+        <item>	NOVA ARACA	</item>
+        <item>	NOVA BASSANO	</item>
+        <item>	NOVA BOA VISTA	</item>
+        <item>	NOVA BRESCIA	</item>
+        <item>	NOVA ESPERANCA DO SUL	</item>
+        <item>	NOVA HARTZ	</item>
+        <item>	NOVA PADUA	</item>
+        <item>	NOVA PALMA	</item>
+        <item>	NOVA PETROPOLIS	</item>
+        <item>	NOVA PRATA	</item>
+        <item>	NOVA ROMA DO SUL	</item>
+        <item>	NOVA SANTA RITA	</item>
+        <item>	NOVO BARREIRO	</item>
+        <item>	NOVO HAMBURGO	</item>
+        <item>	NOVO MACHADO	</item>
+        <item>	NOVO TIRADENTES	</item>
+        <item>	OSORIO	</item>
+        <item>	PAIM FILHO	</item>
+        <item>	PALMARES DO SUL	</item>
+        <item>	PALMEIRA DAS MISSOES	</item>
+        <item>	PALMITINHO	</item>
+        <item>	PANAMBI	</item>
+        <item>	PANTANO GRANDE	</item>
+        <item>	PARAI	</item>
+        <item>	PARAISO DO SUL	</item>
+        <item>	PARECI NOVO	</item>
+        <item>	PAROBE	</item>
+        <item>	PASSO DO SOBRADO	</item>
+        <item>	PASSO FUNDO	</item>
+        <item>	PAVERAMA	</item>
+        <item>	PEDRO OSORIO	</item>
+        <item>	PEJUCARA	</item>
+        <item>	PELOTAS	</item>
+        <item>	PICADA CAFE	</item>
+        <item>	PINHAL	</item>
+        <item>	PINHAL GRANDE	</item>
+        <item>	PINHEIRINHO DO VALE	</item>
+        <item>	PINHEIRO MACHADO	</item>
+        <item>	PIRAPO	</item>
+        <item>	PIRATINI	</item>
+        <item>	PLANALTO	</item>
+        <item>	POCO DAS ANTAS	</item>
+        <item>	PONTAO	</item>
+        <item>	PONTE PRETA	</item>
+        <item>	PORTAO	</item>
+        <item>	PORTO ALEGRE	</item>
+        <item>	PORTO LUCENA	</item>
+        <item>	PORTO MAUA	</item>
+        <item>	PORTO VERA CRUZ	</item>
+        <item>	PORTO XAVIER	</item>
+        <item>	POUSO NOVO	</item>
+        <item>	PRESIDENTE LUCENA	</item>
+        <item>	PROGRESSO	</item>
+        <item>	PROTASIO ALVES	</item>
+        <item>	PUTINGA	</item>
+        <item>	QUARAI	</item>
+        <item>	QUEVEDOS	</item>
+        <item>	QUINZE DE NOVEMBRO	</item>
+        <item>	REDENTORA	</item>
+        <item>	RELVADO	</item>
+        <item>	RESTINGA SECA	</item>
+        <item>	RIO DOS INDIOS	</item>
+        <item>	RIO GRANDE	</item>
+        <item>	RIO PARDO	</item>
+        <item>	RIOZINHO	</item>
+        <item>	ROCA SALES	</item>
+        <item>	RODEIO BONITO	</item>
+        <item>	ROLANTE	</item>
+        <item>	RONDA ALTA	</item>
+        <item>	RONDINHA	</item>
+        <item>	ROQUE GONZALES	</item>
+        <item>	ROSARIO DO SUL	</item>
+        <item>	SAGRADA FAMILIA	</item>
+        <item>	SALDANHA MARINHO	</item>
+        <item>	SALTO DO JACUI	</item>
+        <item>	SALVADOR DAS MISSOES	</item>
+        <item>	SALVADOR DO SUL	</item>
+        <item>	SANANDUVA	</item>
+        <item>	SANTA BARBARA DO SUL	</item>
+        <item>	SANTA CLARA DO SUL	</item>
+        <item>	SANTA CRUZ DO SUL	</item>
+        <item>	SANTA MARIA	</item>
+        <item>	SANTA MARIA DO HERVAL	</item>
+        <item>	SANTA ROSA	</item>
+        <item>	SANTA TEREZA	</item>
+        <item>	SANTA VITORIA DO PALMAR	</item>
+        <item>	SANTANA DA BOA VISTA	</item>
+        <item>	SANTANA DO LIVRAMENTO	</item>
+        <item>	SANTIAGO	</item>
+        <item>	SANTO ANGELO	</item>
+        <item>	SANTO ANTONIO DA PATRULHA	</item>
+        <item>	SANTO ANTONIO DAS MISSOES	</item>
+        <item>	SANTO ANTONIO DO PALMA	</item>
+        <item>	SANTO ANTONIO DO PLANALTO	</item>
+        <item>	SANTO AUGUSTO	</item>
+        <item>	SANTO CRISTO	</item>
+        <item>	SANTO EXPEDITO DO SUL	</item>
+        <item>	SAO BORJA	</item>
+        <item>	SAO DOMINGOS DO SUL	</item>
+        <item>	SAO FRANCISCO DE ASSIS	</item>
+        <item>	SAO FRANCISCO DE PAULA	</item>
+        <item>	SAO GABRIEL	</item>
+        <item>	SAO JERONIMO	</item>
+        <item>	SAO JOAO DA URTIGA	</item>
+        <item>	SAO JOAO DO POLESINE	</item>
+        <item>	SAO JORGE	</item>
+        <item>	SAO JOSE DAS MISSOES	</item>
+        <item>	SAO JOSE DO HERVAL	</item>
+        <item>	SAO JOSE DO HORTENCIO	</item>
+        <item>	SAO JOSE DO INHACORA	</item>
+        <item>	SAO JOSE DO NORTE	</item>
+        <item>	SAO JOSE DO OURO	</item>
+        <item>	SAO JOSE DOS AUSENTES	</item>
+        <item>	SAO LEOPOLDO	</item>
+        <item>	SAO LOURENCO DO SUL	</item>
+        <item>	SAO LUIS GONZAGA	</item>
+        <item>	SAO MARCOS	</item>
+        <item>	SAO MARTINHO	</item>
+        <item>	SAO MARTINHO DA SERRA	</item>
+        <item>	SAO MIGUEL DAS MISSOES	</item>
+        <item>	SAO NICOLAU	</item>
+        <item>	SAO PAULO DAS MISSOES	</item>
+        <item>	SAO PEDRO DA SERRA	</item>
+        <item>	SAO PEDRO DO BUTIA	</item>
+        <item>	SAO PEDRO DO SUL	</item>
+        <item>	SAO SEBASTIAO DO CAI	</item>
+        <item>	SAO SEPE	</item>
+        <item>	SAO VALENTIM	</item>
+        <item>	SAO VALENTIM DO SUL	</item>
+        <item>	SAO VALERIO DO SUL	</item>
+        <item>	SAO VENDELINO	</item>
+        <item>	SAO VICENTE DO SUL	</item>
+        <item>	SAPIRANGA	</item>
+        <item>	SAPUCAIA DO SUL	</item>
+        <item>	SARANDI	</item>
+        <item>	SEBERI	</item>
+        <item>	SEDE NOVA	</item>
+        <item>	SEGREDO	</item>
+        <item>	SELBACH	</item>
+        <item>	SENTINELA DO SUL	</item>
+        <item>	SERAFINA CORREA	</item>
+        <item>	SERIO	</item>
+        <item>	SERTAO	</item>
+        <item>	SERTAO SANTANA	</item>
+        <item>	SEVERIANO DE ALMEIDA	</item>
+        <item>	SILVEIRA MARTINS	</item>
+        <item>	SINIMBU	</item>
+        <item>	SOBRADINHO	</item>
+        <item>	SOLEDADE	</item>
+        <item>	TAPEJARA	</item>
+        <item>	TAPERA	</item>
+        <item>	TAPES	</item>
+        <item>	TAQUARA	</item>
+        <item>	TAQUARI	</item>
+        <item>	TAQUARUCU DO SUL	</item>
+        <item>	TAVARES	</item>
+        <item>	TENENTE PORTELA	</item>
+        <item>	TERRA DE AREIA	</item>
+        <item>	TEUTONIA	</item>
+        <item>	TIRADENTES DO SUL	</item>
+        <item>	TORRES	</item>
+        <item>	TRAMANDAI	</item>
+        <item>	TRAVESSEIRO	</item>
+        <item>	TRES ARROIOS	</item>
+        <item>	TRES CACHOEIRAS	</item>
+        <item>	TRES COROAS	</item>
+        <item>	TRES DE MAIO	</item>
+        <item>	TRES FORQUILHAS	</item>
+        <item>	TRES PALMEIRAS	</item>
+        <item>	TRES PASSOS	</item>
+        <item>	TRINDADE DO SUL	</item>
+        <item>	TRIUNFO	</item>
+        <item>	TUCUNDUVA	</item>
+        <item>	TUNAS	</item>
+        <item>	TUPANCI DO SUL	</item>
+        <item>	TUPANCIRETA	</item>
+        <item>	TUPANDI	</item>
+        <item>	TUPARENDI	</item>
+        <item>	UNIAO DA SERRA	</item>
+        <item>	URUGUAIANA	</item>
+        <item>	VACARIA	</item>
+        <item>	VALE DO SOL	</item>
+        <item>	VALE REAL	</item>
+        <item>	VANINI	</item>
+        <item>	VENANCIO AIRES	</item>
+        <item>	VERA CRUZ	</item>
+        <item>	VERANOPOLIS	</item>
+        <item>	VIADUTOS	</item>
+        <item>	VIAMAO	</item>
+        <item>	VICENTE DUTRA	</item>
+        <item>	VICTOR GRAEFF	</item>
+        <item>	VILA FLORES	</item>
+        <item>	VILA MARIA	</item>
+        <item>	VILA NOVA DO SUL	</item>
+        <item>	VISTA ALEGRE	</item>
+        <item>	VISTA ALEGRE DO PRATA	</item>
+        <item>	VISTA GAUCHA	</item>
+        <item>VITORIA DAS MISSOES</item>
+        <item>XANGRI-LA</item>
+    </string-array>
+</resources>

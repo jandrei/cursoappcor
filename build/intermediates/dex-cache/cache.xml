@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sala01\.android\build-cache\b9130b1ff84f23b8ee2071db345b2d8c61d64f80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\pre-dexed\debug\classes_030079b588f5df73b10b6ae3a6c2cb0e75005aa3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_56f937a4e7bd712410680f5a0b0c8badcfd42eb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sala01\.android\build-cache\01cd59c9c04235744d40c61192dfbe99205a53c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\pre-dexed\debug\classes_621bad979a77e71592170c30cb8ea6a22003fd0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sala01\.android\build-cache\98207e4d09d8d679f46f39ba30151afb40774751\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\pre-dexed\debug\classes_50be849f1ebc10e29b57d6662c5c62cd8fe0e104.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sala01\.android\build-cache\d10387b3d62f06734f1721c3dcde7e4ccdb87245\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\pre-dexed\debug\classes_5bdc9d90824f76f85d02bf48fe2b0bc6a4ec7fc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sala01\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_bbc99f0e6f2b97bac4f264a855829c6f52b88fcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sala01\.android\build-cache\0047014d87d3b88b39e6dd150585d602a6aa0908\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\pre-dexed\debug\classes_b7c8748e95b103153787cdc5a1fa004a8c78bb80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sala01\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\pre-dexed\debug\gson-2.6.2_96e75ff9ab184a49ec7960e42aa18e1df404d4be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sala01\.android\build-cache\b3952e5ac3cb5102e2cf913f16a4f4e9f630e48b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\pre-dexed\debug\classes_7e212dbc03f3db947abe2a8a25bb8717cd0ddd58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sala01\.android\build-cache\28211668f60e0637e8f290f4af4e233a39f5a09f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\pre-dexed\debug\classes_174372b06f4a3ba2a46f352da0835412497330fa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40aee03f27ff07486c58612957ae5b2f2869d326">
+        <dex dex="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_13fe42b009d709e91cb2120d98b10fc640504361\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sala01\.android\build-cache\1af2f454a3fe6de1617c2be6614fc856e8fcfe49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\pre-dexed\debug\classes_a7817fe492a2b0d9df74087ead169b2c0dd67da1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sala01\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_3cfc771af510755cf792b5c244e4fce351a5a67a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sala01\.android\build-cache\81fae80aff71c6a99e103770fb38b89d7f5f5ea5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\pre-dexed\debug\classes_34a6d1481f0c935cb1355a6835c4748c6e72b300.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sala01\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\pre-dexed\debug\okio-1.13.0_ac4568e57784d3572da98f5b91ef5e3f9e7528a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sala01\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\pre-dexed\debug\okhttp-3.8.0_c05b9704af775c32cc15b3b2af009bb27c9389bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sala01\.android\build-cache\ca79a6354fe28659ad75819f3d32497910d2d6c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\sala01\AndroidStudioProjects\jandrei\appcorsan\app\build\intermediates\pre-dexed\debug\classes_bae121bdbc49f18a78a1e247ef79efd9036d28ad.jar" />
+    </item>
+
+</items>
